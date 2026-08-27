@@ -12,7 +12,7 @@
 
     <button type="button" onclick="window.location.href='public/cliente/cadastrar_cliente.php'">Cadastrar Cliente</button>
     <button type="button" onclick="window.location.href='public/restaurante/cadastrar_restaurante.php'">Cadastrar Restaurante</button>
-
+  <button type="button" onclick="window.location.href='public/pedido/cadastrar_pedido.php'">Cadastrar Pedido</button>
 </body>
 
 </html>
